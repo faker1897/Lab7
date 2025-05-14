@@ -15,3 +15,5 @@ reloading or performing any user interactions.
    - optimize images
    - Add alt attributes to images
    - Use lazy load
+
+work with Saumya Sadh
